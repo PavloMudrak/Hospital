@@ -1,0 +1,48 @@
+﻿@model IEnumerable<CustomIdentityApp.Models.Doctor>
+@{
+    ViewData["Title"] = "Doctors List";
+}
+<h3>Doctors list</h3>
+@using (Html.BeginForm())
+{
+    <p>
+        Find by name: @Html.TextBox("SearchString") &nbsp;
+        <input type="submit" value="Search" />
+    </p>
+}
+
+<table class="table-condensed">
+    <tr>
+
+        <td>Name</td>
+        <td>Years</td>
+        @*<td>Id</td>*@
+        <td>Proffesion</td>
+        <td> </td>
+
+    </tr>
+    @foreach (var doctor in Model)
+    {
+        <tr>
+
+            <td>@doctor.Name</td>
+            <td>@doctor.Year</td>
+            @*<td>@doctor.DoctorId</td>*@
+            <td>@doctor.Proffesion</td>
+            <td>
+                <form asp-action="Delete" asp-route-id="@doctor.DoctorId" method="post">
+                    <button type="submit" class="btn btn-sm btn-danger">
+                        Delete
+                    </button>
+                </form>
+            </td>
+
+
+        </tr>
+    }
+
+
+</table>
+
+<p><a href="~/Doctors/Create1"> Add doctor </a></p>
+<p><a href="~/Doctors/Filter"> Search  doctor </a></p>

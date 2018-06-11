@@ -1,0 +1,11 @@
+D:\ЛНУ\2к18\hospital\CustomIdentityApp\CustomIdentityApp\bin\Debug\netcoreapp2.0\HospitalApp.deps.json
+D:\ЛНУ\2к18\hospital\CustomIdentityApp\CustomIdentityApp\bin\Debug\netcoreapp2.0\HospitalApp.runtimeconfig.json
+D:\ЛНУ\2к18\hospital\CustomIdentityApp\CustomIdentityApp\bin\Debug\netcoreapp2.0\HospitalApp.runtimeconfig.dev.json
+D:\ЛНУ\2к18\hospital\CustomIdentityApp\CustomIdentityApp\bin\Debug\netcoreapp2.0\HospitalApp.dll
+D:\ЛНУ\2к18\hospital\CustomIdentityApp\CustomIdentityApp\bin\Debug\netcoreapp2.0\HospitalApp.pdb
+D:\ЛНУ\2к18\hospital\CustomIdentityApp\CustomIdentityApp\obj\Debug\netcoreapp2.0\HospitalApp.csprojResolveAssemblyReference.cache
+D:\ЛНУ\2к18\hospital\CustomIdentityApp\CustomIdentityApp\obj\Debug\netcoreapp2.0\HospitalApp.csproj.CoreCompileInputs.cache
+D:\ЛНУ\2к18\hospital\CustomIdentityApp\CustomIdentityApp\obj\Debug\netcoreapp2.0\HospitalApp.AssemblyInfoInputs.cache
+D:\ЛНУ\2к18\hospital\CustomIdentityApp\CustomIdentityApp\obj\Debug\netcoreapp2.0\HospitalApp.AssemblyInfo.cs
+D:\ЛНУ\2к18\hospital\CustomIdentityApp\CustomIdentityApp\obj\Debug\netcoreapp2.0\HospitalApp.dll
+D:\ЛНУ\2к18\hospital\CustomIdentityApp\CustomIdentityApp\obj\Debug\netcoreapp2.0\HospitalApp.pdb
